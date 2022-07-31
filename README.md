@@ -1,4 +1,4 @@
-# AWS IoT Workshop
+# AWS IoT Edukit Workshop
 
 [AWS IoT Edukit Workshop](https://edukit.workshop.aws/en/)에는 M5stack을 위한 여러가지 예제를 제공하고 있습니다. 해당 예제를 통해 M5stack을 제어하고 AWS IoT Core와 연결 할 수 있습니다. 
 
